@@ -1,0 +1,14 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+
+README.md
+LICENSE
+CODEOWNERS
+set_git.sh
+writeup_template.md
+visualize_cnn.png
+
